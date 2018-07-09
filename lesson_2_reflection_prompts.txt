@@ -1,0 +1,16 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+  When you initialize a repository, git now has a space to track your files
+  and editing history. You need to do this before you can do any commits
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+  If you aren't sure if a new idea will create bugs, it will be better in an
+  experimental branch. Or perhaps you want to experiment with two different ways
+  to do the same thing.
+
+How do the diagrams help you visualize the branch structure?
+
+  The commits can be viewed as nodes on a directed graph, and it is important to
+  see which commits you can actually see from given branch/commit

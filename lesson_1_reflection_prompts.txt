@@ -1,0 +1,50 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Narrows your focus to only things that have actually changed. Filter out
+    noise.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    If you compile and save often you can always go back to a version that
+    doesn't have a bug or more easily find the bugs.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros: you can commit after making new logical blocks and logical endings.
+    Cons: you can forget to commit or if you are on a team and a teammate is not
+    responsible they could create problems by leaving lots of lines to hunt for
+    bugs.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Perhaps because often in coding with a large project you are working with
+    multiple files that depend on one another and you should always commit them
+    together, even if you only changed some of the interdependent files.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    not sure, because I haven't learned about these yet.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Because you can always reset or undo any changes. your work is always safe
+    from specific points in time.
+    You have a way to focus in on what changes actually made the break and go
+    back to a version of all files without the break.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to eventually set up a hub for my ART : - )
+
+How can you use the commands git log and git diff to view the history of files?
+    You can use git log to see all of the commits and if the tags are good
+    descriptors, you can use git diff to see the specific changes between two
+    files.
+
+    
