@@ -39,4 +39,8 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    If you haven't communicated with your group members and it could affect their
+    work, start a new branch. If you are experimenting, you need a new branch.
+    Working directly in master can save a lot of overhead, but can cost lots of
+    debugging time if you commit something that introduces a bug, that could
+    have been done on a separate branch.
