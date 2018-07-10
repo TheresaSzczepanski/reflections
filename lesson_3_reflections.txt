@@ -31,7 +31,10 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Collaborating in person can spare the time-lag between requests, comments,
+    approvals, and merges, but that isn't always possible
+    You can collaborate on and off-line which is nice. It puts barriers so some
+    one else cannot as easily put bugs into your work
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
